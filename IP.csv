@@ -1,0 +1,6 @@
+TID,Bread,Milk,Jam,Sauce,Diaper
+1,Bread,Milk,Jam,Sauce,
+2,Bread,,,,Diaper
+3,,Milk,Jam,,Diaper
+4,Bread,Milk,Jam,,Diaper
+5,Bread,Milk,,Sauce,Diaper
