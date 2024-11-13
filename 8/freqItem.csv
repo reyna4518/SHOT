@@ -1,0 +1,9 @@
+Itemset,Support (%),Frequency
+Jam,60,3
+Bread,80,4
+Milk,80,4
+Diaper,80,4
+"Milk, Jam",60,3
+"Milk, Bread",60,3
+"Diaper, Bread",60,3
+"Diaper, Milk",60,3

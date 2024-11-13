@@ -1,0 +1,9 @@
+A,B,Confidence
+Jam,Milk,1.0
+Milk,Jam,0.75
+Bread,Milk,0.75
+Milk,Bread,0.75
+Bread,Diaper,0.75
+Diaper,Bread,0.75
+Diaper,Milk,0.75
+Milk,Diaper,0.75
